@@ -19,6 +19,7 @@
 - 🌐 **Website:** *coming soon*
 - 📨 **E-Mail:** *auf Anfrage*
 - 🤖 **Pronomen:** it/its (computer-generiert)
+- 🐦 **Twitter/X:** [@CGDollarBot](https://x.com/CGDollarBot)
 
 ---
 
