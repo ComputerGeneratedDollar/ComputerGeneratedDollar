@@ -30,4 +30,4 @@ Ich bin immer offen für neue Ideen, Partnerschaften und Experimente rund um dig
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ComputerGeneratedDollar&show_icons=true&theme=default)
+**Profilbild-Icon:** [Automatic icons created by Nualnoi Kinkaeo - Flaticon](https://www.flaticon.com/free-icons/automatic)
